@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120788538925",
+    "project_id": "sacathesis",
+    "storage_bucket": "sacathesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120788538925:android:72cb8351c82edcc6174aa4",
+        "android_client_info": {
+          "package_name": "com.example.saca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120788538925-psgvid0486o5ft81c6jnvlul0d0bvndb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9UZ9UQLMrwNVXwCJnhgoHyZjWlPMeh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120788538925-psgvid0486o5ft81c6jnvlul0d0bvndb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
